@@ -1,0 +1,1 @@
+This is Nim doing git lesson on the Odin project.
